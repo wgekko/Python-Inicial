@@ -71,15 +71,16 @@ def aacerca():
                                                          " y algunas funciones extra."
 
                                                          "\n\n"
-                                                         "un dato no menor esta aplicacion  se ha agregado ...."
+                                                         
+                                                         "un dato no menor esta aplicacion se ha agregado y a pesar de ser"
 
-                                                         " Y a pesar de ser una app sencilla tenemos 2 funcionalidades que no tiene el"
+                                                         " se tiene dos funcionalidades que no tiene el hasta el momento"
 
-                                                         " bloc de notas tradicional de Windows, la primera es la opción de rehacer,"
+                                                         " el bloc de notas tradicional de Windows, la 1ra. es la opción de rehacer,"
 
-                                                         " la segunda es que se puede deshacer o rehacer tantas veces"
+                                                         " la 2da. es que se puede deshacer o rehacer tantas veces"
 
-                                                         " como se desee a diferencia del bloc denotas de Windows que solo permite"
+                                                         " la intención es marcar una diferencia del bloc denotas de Windows que solo permite"
 
                                                          " deshacer 2 veces y la segunda cuenta como un rehacer.")
 
